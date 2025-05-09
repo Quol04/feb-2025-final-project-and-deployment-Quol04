@@ -1,5 +1,8 @@
 # 🛒 MyShop - eCommerce Website
 
+## Demo
+
+[Live Demo](https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Quol04/)
 
 
 
